@@ -2,5 +2,5 @@
 
 - 🌱 Atualmente estudando Java e conteudos voltados para o desenvolvimento back-end
 - 📫 How to reach me: ericnpdev@gmail.com
-- 😄 Pronouns: ele/dele
+
 
